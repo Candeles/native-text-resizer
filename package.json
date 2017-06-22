@@ -1,0 +1,19 @@
+{
+  "name": "native-text-resizer",
+  "version": "1.0.0",
+  "description": "A simple auto-resizer for text based on window size. Does not require jquery.",
+  "main": "native-text-resizer.min .js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Candeles/native-text-resizer.git"
+  },
+  "author": "Michael Candels (Candeles)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Candeles/native-text-resizer/issues"
+  },
+  "homepage": "https://github.com/Candeles/native-text-resizer#readme"
+}
